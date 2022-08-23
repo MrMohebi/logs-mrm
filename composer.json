@@ -15,7 +15,8 @@
     "require": {
         "php": ">=8.1",
         "vlucas/phpdotenv": "^5.4",
-        "nutgram/nutgram": "^3.7"
+        "nutgram/nutgram": "^3.7",
+        "ext-curl": "*"
     },
     "config": {
         "platform": {
