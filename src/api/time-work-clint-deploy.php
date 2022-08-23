@@ -1,4 +1,5 @@
 <?php
+include_once "../config/index.php";
 
 use SergiX44\Nutgram\Nutgram;
 use Mmmohebi\LogsMrm\general\General;
