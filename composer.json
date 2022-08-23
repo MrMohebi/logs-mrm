@@ -1,0 +1,23 @@
+{
+    "name": "mmmohebi/logs-mrm",
+    "description": "logs route manager",
+    "autoload": {
+        "psr-4": {
+            "Mmmohebi\\LogsMrm\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mmmohebi",
+            "email": "MMMohebi@outlook.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "config": {
+        "platform": {
+            "php": "8.1"
+        }
+    }
+}
