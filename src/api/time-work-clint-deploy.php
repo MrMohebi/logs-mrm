@@ -1,4 +1,9 @@
 <?php
+
+if(!isset($_GET['token'])){
+    exit(401);
+}
+
 include_once "../config/index.php";
 
 use SergiX44\Nutgram\Nutgram;
